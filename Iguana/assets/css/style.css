@@ -1,0 +1,144 @@
+body {
+    width: 1280px;
+    height: 1937px;
+    text-align: center;
+    color: #ffffff;
+    background:#000000;
+    font-family: 'Raleway', sans-serif; /* centrado, letra blanca, fondo negro */
+}
+.iguana-header {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 73px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+h1 {
+    top: 0px;
+    margin: 0px 530px 0px;
+    width: 221px;
+    height: 59px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.bg-header {
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.descripcion {
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.descripcion-texto {
+    top: 876px;
+    left: 150px;
+    width: 475px;
+    height: 197px;
+    text-align: left;
+    font-weight: 300;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    line-height: 19px; 
+    vertical-align: middle;
+    padding-right: 106px;
+    margin-top: 76px;
+}
+.iguana-1 {
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    vertical-align: middle; 
+    margin-top: 45px;
+}
+.descripcion, .descripcion-imagen, .descripcion-texto {
+    display:inline-block;
+}
+.caracteristicas {
+    top: 1141px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+}
+h2 {
+    top: 1216px;
+    left: 464px;
+    width: 356px;
+    height: 47px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 40px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-top: 76px;
+    margin-left: 464px;
+}
+div ul li {
+    display: inline-block;
+    margin: 0 90px;
+    vertical-align: middle; 
+}
+h3 {
+    font-weight: 300;
+    font-size: 25px;
+}
+.iguana-2, .iguana-3, .iguana-4 {
+    width: 316px;
+    height: 202px;
+}
+.iguana-2 {
+    position: absolute;
+    top: 1561px;
+    left: 150px;
+}
+.iguana-3 {
+    position: absolute;
+    top: 1561px;
+    left: 482px;
+}
+.iguana-4 {
+    position: absolute;
+    top: 1561px;
+    left: 814px;
+}
+footer {position: absolute;
+    top: 1835px;
+    left: 0px;
+    width: 1280px;
+    height: 102px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+}
+.referencia {
+    left: 299px;
+    width: 682px;
+    height: 24px;
+    text-align: left;
+    margin: 39px auto;
+    font-weight: 300;
+    font-size: 20px;
+}
+.anipedia {
+    text-decoration: none;
+    color: white;
+}
